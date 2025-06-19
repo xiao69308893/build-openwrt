@@ -507,17 +507,16 @@ copies or substantial portions of the Software.
 ## 📞 技术支持
 
 ### 获取帮助
-
-- 🐛 **Bug 报告**: [提交 Issue](https://github.com/your-username/your-repo-name/issues/new?template=bug_report.md)
-- 💡 **功能建议**: [功能请求](https://github.com/your-username/your-repo-name/issues/new?template=feature_request.md)
-- 💬 **讨论交流**: [GitHub Discussions](https://github.com/your-username/your-repo-name/discussions)
-- 📖 **使用文档**: [项目 Wiki](https://github.com/your-username/your-repo-name/wiki)
+- 🐛 **Bug 报告**: [提交 Issue](https://github.com/bianyibushu/build-openwrt/issues/new?template=bug_report.md)
+- 💡 **功能建议**: [功能请求](https://github.com/bianyibushu/build-openwrt/issues/new?template=feature_request.md)
+- 💬 **讨论交流**: [GitHub Discussions](https://github.com/bianyibushu/build-openwrt/discussions)
+- 📖 **使用文档**: [项目 Wiki](https://github.com/bianyibushu/build-openwrt/wiki)
 
 ### 社区交流
 
 - 📱 **QQ 群**: 123456789（OpenWrt 智能编译）
 - 💬 **微信群**: 扫码加入（请备注：OpenWrt编译）
-- 🌐 **官方网站**: https://your-username.github.io/your-repo-name
+- 🌐 **官方网站**: https://bianyibushu.github.io/build-openwrt
 - 📧 **邮件联系**: support@your-domain.com
 
 ### 常见问题 FAQ
