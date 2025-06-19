@@ -517,7 +517,7 @@ copies or substantial portions of the Software.
 - 📱 **QQ 群**: 123456789（OpenWrt 智能编译）
 - 💬 **微信群**: 扫码加入（请备注：OpenWrt编译）
 - 🌐 **官方网站**: https://bianyibushu.github.io/build-openwrt
-- 📧 **邮件联系**: support@your-domain.com
+- 📧 **邮件联系**: code@bianyibushu.com
 
 ### 常见问题 FAQ
 
