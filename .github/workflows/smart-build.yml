@@ -429,6 +429,8 @@ jobs:
           CONFIG_TARGET_x86=y
           CONFIG_TARGET_x86_64=y
           CONFIG_TARGET_x86_64_DEVICE_generic=y
+          CONFIG_GRUB_IMAGES=y
+          CONFIG_GRUB_EFI_IMAGES=y
           EOF
               RECOMMEND_PLUGINS="luci kmod-e1000 kmod-igb"
               ;;
